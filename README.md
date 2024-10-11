@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eren Demirkesen</h1>
 <h3 align="center">Game & Android Developer</h3>
 
-- 👨‍💻 My Game projects are available at [https://play.google.com/store/apps/developer?id=Rux+Games](https://play.google.com/store/apps/developer?id=Rux+Games)
+- 👨‍💻 My Game projects are available at [https://www.youtube.com/@RuxGames-ml8qe/featured](https://www.youtube.com/@RuxGames-ml8qe/featured)
 
 - 📫 How to reach me **erendemirkesen@gmail.com**
 
