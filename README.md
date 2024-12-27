@@ -2,7 +2,7 @@
 <h3 align="center">Game & Android Developer</h3>
 
 - 👨‍💻 My Game projects are available at [https://www.youtube.com/@RuxGames-ml8qe/featured](https://www.youtube.com/@RuxGames-ml8qe/featured)
-      Steam Project: https://store.steampowered.com/app/3137800/Viking_Survivors_The_Last_Ragnark/
+- Steam Project: https://store.steampowered.com/app/3137800/Viking_Survivors_The_Last_Ragnark/
 
 - 📫 How to reach me **erendemirkesen@gmail.com**
 
