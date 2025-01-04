@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eren Demirkesen</h1>
 <h3 align="center">Game Developer</h3>
 
-- 👨‍💻 My Game projects are available at [https://www.youtube.com/@RuxGames-ml8qe/featured](https://www.youtube.com/@RuxGames-ml8qe/featured)
+- 👨‍💻 My Game projects are available at [Portfolio](https://github.com/erendemirkesen/Portfolio)
 - Steam Project: https://store.steampowered.com/app/3137800/Viking_Survivors_The_Last_Ragnark/
 
 - 📫 How to reach me **erendemirkesen@gmail.com**
