@@ -39,8 +39,6 @@
 - 👨‍💻 My Game projects are available at  [Portfolio](https://erendemirkesen.github.io/Portfolio/)
 
 ---
-
----
 > "Turning ideas into reality through code and creativity." 🚀
 
 <h3 align="left">Languages and Tools:</h3>
