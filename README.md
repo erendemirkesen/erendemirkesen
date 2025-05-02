@@ -33,18 +33,12 @@
 ---
 
 <h2>📫 Contact Me</h2>
-
 <p>
-  <strong>Email:</strong> erendemirkesen@gmail.com
-</p>
-
----
-
-
-
 - 📫 Feel free to reach out: **erendemirkesen@gmail.com**  
 - 🔗 Connect with me: [LinkedIn Profile](https://www.linkedin.com/in/eren-demirkesen/)
 - 👨‍💻 My Game projects are available at  [Portfolio](https://erendemirkesen.github.io/Portfolio/)
+</p>
+---
 
 ---
 > "Turning ideas into reality through code and creativity." 🚀
