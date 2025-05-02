@@ -1,13 +1,18 @@
-Hi, I'm Eren Demirkesen 👋
+Hi, I'm Eren 👋
 
-🎮 Game Developer | 📱 Mobile App Developer | 🧠 Software Engineer
+I'm a passionate Software Engineer specializing in:
 
-I'm passionate about creating engaging mobile and PC games using Unity, as well as building intelligent Android applications.  
-Currently working on exciting projects at Simplex Games and Rux Games.
+🎮 Game Development with Unity (C#) and Unreal Engine
 
-🔹 Experienced with Unity (C#), Android Development (Kotlin/Java), and AI integration.  
-🔹 Built games like *Viking Survivors: The Last Ragnarok*, casual mobile games, and scalable mobile apps.  
-🔹 Focused on performance, user experience, and innovative features.
+📱 Mobile App Development using Android Studio (Kotlin/Java)
+
+🌐 Web and Backend Development with Java, REST APIs, React.js
+
+🚀 I love creating user-centered applications, whether it's a mobile game, a scalable Android app, or a cloud-based backend system.
+
+🔧 Skills: Unity, Android Studio, Java, Kotlin, React.js, Firebase, SQL, REST APIs
+
+📫 How to reach me: erendemirkesen@gmail.com
 
 - 📫 Feel free to reach out: **erendemirkesen@gmail.com**  
 - 🔗 Connect with me: [LinkedIn Profile](https://www.linkedin.com/in/eren-demirkesen/)
