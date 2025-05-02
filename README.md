@@ -18,7 +18,7 @@
   <li>🎮 Game Development: <strong>Unity (C#)</strong>, <strong>Unreal Engine</strong></li>
   <li>📱 Mobile Development: <strong>Android Studio (Kotlin/Java)</strong>, <strong>React Native</strong></li>
   <li>🌐 Web Development: <strong>Vue.js</strong>, <strong>Node.js</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong></li>
-  <li>🔧 Backend Systems: <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>Firebase</strong>, <strong>SQL</strong></li>
+  <li>🔧 Backend Systems: <strong>Java</strong>, <strong>Firebase</strong>, <strong>SQL</strong></li>
 </ul>
 
 ---
