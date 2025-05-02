@@ -1,6 +1,6 @@
 <!-- Profile README.md -->
 
-<h1 align="center">Hi, I'm Eren 👋</h1>
+<h1 align="center">Hi, I'm Eren</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
@@ -45,13 +45,6 @@
 - 📫 Feel free to reach out: **erendemirkesen@gmail.com**  
 - 🔗 Connect with me: [LinkedIn Profile](https://www.linkedin.com/in/eren-demirkesen/)
 - 👨‍💻 My Game projects are available at  [Portfolio](https://erendemirkesen.github.io/Portfolio/)
-
----
-**Technologies I Work With:**  
-- Unity, Unreal Engine  
-- Android Studio, Firebase  
-- C#, Kotlin, Java, Python, JavaScript, SQL  
-- APIs, Realtime Databases, Backend Servers
 
 ---
 > "Turning ideas into reality through code and creativity." 🚀
