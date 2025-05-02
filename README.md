@@ -9,8 +9,8 @@ Currently working on exciting projects at Simplex Games and Rux Games.
 🔹 Built games like *Viking Survivors: The Last Ragnarok*, casual mobile games, and scalable mobile apps.  
 🔹 Focused on performance, user experience, and innovative features.
 
-📫 Feel free to reach out: **erendemirkesen@gmail.com**  
-🔗 Connect with me: [LinkedIn Profile](https://www.linkedin.com/in/eren-demirkesen/)
+- 📫 Feel free to reach out: **erendemirkesen@gmail.com**  
+- 🔗 Connect with me: [LinkedIn Profile](https://www.linkedin.com/in/eren-demirkesen/)
 - 👨‍💻 My Game projects are available at  [Portfolio](https://erendemirkesen.github.io/Portfolio/)
 
 ---
