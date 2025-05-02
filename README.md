@@ -1,6 +1,6 @@
 <!-- Profile README.md -->
 
-<h1 align="center">Hi, I'm Eren</h1>
+<h1 align="center">Hi, I'm Eren 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
@@ -16,8 +16,8 @@
 
 <ul>
   <li>🎮 Game Development: <strong>Unity (C#)</strong>, <strong>Unreal Engine</strong></li>
-  <li>📱 Mobile Apps: <strong>Android Studio (Kotlin/Java)</strong></li>
-  <li>🌐 Web Development: <strong>React.js</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong></li>
+  <li>📱 Mobile Development: <strong>Android Studio (Kotlin/Java)</strong>, <strong>React Native</strong></li>
+  <li>🌐 Web Development: <strong>Vue.js</strong>, <strong>Node.js</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong></li>
   <li>🔧 Backend Systems: <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>Firebase</strong>, <strong>SQL</strong></li>
 </ul>
 
