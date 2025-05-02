@@ -1,18 +1,46 @@
-Hi, I'm Eren 👋
+<!-- Profile README.md -->
 
-I'm a passionate Software Engineer specializing in:
+<h1 align="center">Hi, I'm Eren 👋</h1>
 
-🎮 Game Development with Unity (C#) and Unreal Engine
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
+</p>
 
-📱 Mobile App Development using Android Studio (Kotlin/Java)
+<p align="center">
+  I'm a passionate <strong>Software Engineer</strong> specializing in Mobile Apps, Game Development, and Web & Backend Systems.
+</p>
 
-🌐 Web and Backend Development with Java, REST APIs, React.js
+---
 
-🚀 I love creating user-centered applications, whether it's a mobile game, a scalable Android app, or a cloud-based backend system.
+<h2>🧰 Tech Stack</h2>
 
-🔧 Skills: Unity, Android Studio, Java, Kotlin, React.js, Firebase, SQL, REST APIs
+<ul>
+  <li>🎮 Game Development: <strong>Unity (C#)</strong>, <strong>Unreal Engine</strong></li>
+  <li>📱 Mobile Apps: <strong>Android Studio (Kotlin/Java)</strong></li>
+  <li>🌐 Web Development: <strong>React.js</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong></li>
+  <li>🔧 Backend Systems: <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>Firebase</strong>, <strong>SQL</strong></li>
+</ul>
 
-📫 How to reach me: erendemirkesen@gmail.com
+---
+
+<h2>🚀 About Me</h2>
+
+<p>
+  I love creating user-centered applications, whether it's a mobile game, a scalable Android app, or a cloud-based backend system.<br><br>
+  I'm always eager to learn new technologies, collaborate with teams, and bring ideas to life through innovative development.
+</p>
+
+---
+
+<h2>📫 Contact Me</h2>
+
+<p>
+  <strong>Email:</strong> erendemirkesen@gmail.com
+</p>
+
+---
+
+
 
 - 📫 Feel free to reach out: **erendemirkesen@gmail.com**  
 - 🔗 Connect with me: [LinkedIn Profile](https://www.linkedin.com/in/eren-demirkesen/)
