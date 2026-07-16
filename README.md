@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I'm a passionate <strong>Software Engineer</strong> specializing in Mobile Apps, Game Development, and Web & Backend Systems.
+  I'm a passionate <strong>Software Engineer</strong> specializing in Mobile Apps, Game Development.
 </p>
 
 ---
